@@ -1,1 +1,3 @@
+# Comparative Heat Transfer Analysis of Optimal Electric Motor Designs with Different Winding Materials
 
+This project investigates the thermal performance of different winding materials—copper, aluminum, silver, and magnesium—in an optimized electric motor design for electrified aircraft propulsion. Using a parameterized thermal model based on finite element methods (MFEM) and visualized via ParaView, the study analyzes the effects of material properties on winding temperature, efficiency, total mass, and thermal management requirements. The findings provide insights into trade-offs between conductivity, cost, weight, and thermal behavior for electric motor windings in aerospace applications.
